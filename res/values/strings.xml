@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wallpaper_name">hack4clock</string>
+    <string name="app_name">hack4clock</string>
+    <string name="description">-- description goes here --</string>
+    <string name="wallpaper_settings">[settings]</string>
+</resources>
